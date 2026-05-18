@@ -27,7 +27,7 @@ linux-server-lab/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/linux-server-lab.git
+git clone https://github.com/c1pher898/linux-server-lab.git
 cd linux-server-lab
 
 # Run full hardening script (run as root)
